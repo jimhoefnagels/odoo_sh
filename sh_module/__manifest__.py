@@ -6,7 +6,7 @@
     "license": "",
     "author": "DynApps NV",
     "category": "Odoo",
-    "depends": ["account"],
-    "data": ["views/templates.xml"],
+    "depends": ["base"],
+    "data": [],
     "installable": True,
 }
