@@ -1,0 +1,4 @@
+[submodule "13.0-mig-account-fiscal-year"]
+	path = 13.0-mig-account-fiscal-year
+	url = git@gitlab.dynapps.be:verticals/accounting/advanced.git
+	branch = 13.0-mig-account-fiscal-year
