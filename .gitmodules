@@ -1,0 +1,4 @@
+[submodule "account_invoice_line_default"]
+	path = account_invoice_line_default
+	url = git@gitlab.dynapps.be:verticals/accounting/advanced.git
+	branch = 13.0-mig-dyn_account_invoice_line_default
