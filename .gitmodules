@@ -1,0 +1,4 @@
+[submodule "submodules/accounting/light"]
+	path = submodules/accounting/light
+	url = git@gitlab.dynapps.be:verticals/accounting/light.git
+	branch = 13.0
