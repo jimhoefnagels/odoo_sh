@@ -6,7 +6,7 @@
     "license": "",
     "author": "DynApps NV",
     "category": "Odoo",
-    "depends": ["account_invoice_line_default"],
+    "depends": ["dyn_account_invoice_line_default"],
     "data": [],
     "installable": True,
 }
