@@ -2,7 +2,7 @@
 
 {
     "name": "DynApps Odoo.sh testing module",
-    "version": "13.0.1.0.1",
+    "version": "13.0.1.0.2",
     "license": "",
     "author": "DynApps NV",
     "category": "Odoo",
