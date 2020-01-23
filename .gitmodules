@@ -14,3 +14,7 @@
 	path = submodules/oca/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 13.0
+[submodule "submodules/dynapps"]
+	path = submodules/dynapps
+	url = git@gitlab.dynapps.be:verticals/dynapps.git
+	branch = 13.0
