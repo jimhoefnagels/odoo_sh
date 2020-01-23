@@ -18,3 +18,7 @@
 	path = submodules/dynapps
 	url = git@gitlab.dynapps.be:verticals/dynapps.git
 	branch = 13.0
+[submodule "submodules/oca/account-financial-tools"]
+	path = submodules/oca/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 13.0
