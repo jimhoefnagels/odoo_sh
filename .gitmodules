@@ -5,4 +5,8 @@
 [submodule "submodules/dynapps"]
 	path = submodules/dynapps
 	url = git@gitlab.dynapps.be:verticals/dynapps.git
+	branch = 13.0
+[submodule "submodules/submodules/accounting/advanced"]
+	path = submodules/submodules/accounting/advanced
+	url = git@gitlab.dynapps.be:verticals/accounting/advanced.git
 	branch = 13.0-mig-dyn_sell_or_dispose
