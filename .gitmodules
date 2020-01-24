@@ -2,3 +2,7 @@
 	path = submodules/accounting/light
 	url = git@gitlab.dynapps.be:verticals/accounting/light.git
 	branch = 13.0
+[submodule "submodules/submodules/dynapps"]
+	path = submodules/submodules/dynapps
+	url = git@gitlab.dynapps.be:verticals/dynapps.git
+	branch = 13.0-mig-dyn_listview_tooltip

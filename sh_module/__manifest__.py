@@ -6,7 +6,7 @@
     "license": "",
     "author": "DynApps NV",
     "category": "Odoo",
-    "depends": ["base"],
+    "depends": ["dyn_listview_tooltip"],
     "data": [],
     "installable": True,
 }
